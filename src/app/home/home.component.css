@@ -1,0 +1,16 @@
+.hero-section{
+    padding: 50px 20px;
+}
+ .btns{
+    padding: 20px;
+ }
+
+ .btns button{
+    border: 1px solid black;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 0px;
+ }
+swiper img{
+    width: 100%;
+}
